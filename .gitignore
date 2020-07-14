@@ -1,0 +1,4 @@
+zip_for_udacity/
+.ipynb_checkpoints/
+udacity_reviews/
+trained_rnn.pt
